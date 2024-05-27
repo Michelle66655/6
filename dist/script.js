@@ -1,0 +1,1 @@
+document.write("我是莊敏暄")
